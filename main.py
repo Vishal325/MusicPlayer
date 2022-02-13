@@ -36,7 +36,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://telegra.ph/file/902458fb6dffa5d968769.jpg)
 - License: AGPL-3.0-or-later
 """
 
@@ -53,11 +53,11 @@ else:
 
 
 @client.on_message(
-    filters.command("repo", config.PREFIXES) & ~filters.bot & ~filters.edited
+    filters.command("owner", config.PREFIXES) & ~filters.bot & ~filters.edited
 )
 @handle_error
-async def repo(_, message: Message):
-    await message.reply_text(REPO, disable_web_page_preview=True)
+async def owner(_, message: Message):
+    await message.reply_text(OWNER, disable_web_page_preview=True)
 
 
 @client.on_message(
