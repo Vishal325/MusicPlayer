@@ -6,7 +6,7 @@
 <br>
     <img src="https://img.shields.io/github/license/AsmSafone/MusicPlayer?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/AsmSafone/MusicPlayer?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/AsmSafone/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/repo-size/Vishal0796/MusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
     <img src="https://img.shields.io/github/forks/AsmSafone/MusicPlayer?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/stars/AsmSafone/MusicPlayer?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/watchers/AsmSafone/MusicPlayer?style=for-the-badge" alt="Watchers">
@@ -145,7 +145,7 @@ For any kind of help join [our support group](https://t.me/AsmSupport) or raise 
 
 ## ✨ <a name="credits"></a>Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
+- [Me](https://github.com/Vishal0796) for [Noting](https://github.com/Vishal0796/MusicPlayer) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) ❤️
 - And Thanks To All [Contributors](https://github.com/AsmSafone/MusicPlayer/graphs/contributors)! ❤️
