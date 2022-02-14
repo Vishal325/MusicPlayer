@@ -36,4 +36,4 @@ jobs:
           commit_user_email: 
           commit_options: '--no-verify'
           commit_message: 'auto: refactor'
-          commit_author: Safone <owner@silent_killer_008.tech>
+          commit_author: vishu <owner@silent_killer_008.tech>
