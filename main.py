@@ -36,7 +36,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://telegra.ph/file/902458fb6dffa5d968769.jpg)
+- Repo: [Owner](https://telegra.ph/file/902458fb6dffa5d968769.jpg)
 - License: AGPL-3.0-or-later
 """
 
